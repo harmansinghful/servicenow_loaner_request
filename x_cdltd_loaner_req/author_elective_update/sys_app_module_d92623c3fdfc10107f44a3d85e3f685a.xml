@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Loaner Request">f64a3aad204523007f4471dbf508ccba</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Loaner Tasks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_loaner_req_loaner_task</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_loaner_req.loaner_task_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 14:24:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d92623c3fdfc10107f44a3d85e3f685a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Tasks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">d8573e2d204523007f4471dbf508ccaf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d8573e2d204523007f4471dbf508ccaf</sys_scope>
+        <sys_update_name>sys_app_module_d92623c3fdfc10107f44a3d85e3f685a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 14:24:00</sys_updated_on>
+        <timeline_page/>
+        <title>Loaner Tasks</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">d8573e2d204523007f4471dbf508ccaf</application>
+        <file_path/>
+        <instance_id>e1bf9f2a1b7c981088c56288bd4bcbe6</instance_id>
+        <instance_name>adf-may-dev-002</instance_name>
+        <name>sys_app_module_d92623c3fdfc10107f44a3d85e3f685a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Loaner Request">f64a3aad204523007f4471dbf508ccba</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Loaner Tasks</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_loaner_req_loaner_task</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_cdltd_loaner_req.loaner_task_user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-05-20 14:24:00</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d92623c3fdfc10107f44a3d85e3f685a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Loaner Tasks</sys_name><sys_overrides/><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">d8573e2d204523007f4471dbf508ccaf</sys_package><sys_policy/><sys_scope display_value="Loaner Request">d8573e2d204523007f4471dbf508ccaf</sys_scope><sys_update_name>sys_app_module_d92623c3fdfc10107f44a3d85e3f685a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-05-20 14:24:00</sys_updated_on><timeline_page/><title>Loaner Tasks</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>1265662774</payload_hash>
+        <record_name>Loaner Tasks</record_name>
+        <reverted_from/>
+        <source>34f67a76fdb410107f44a3d85e3f688b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 14:24:00</sys_created_on>
+        <sys_id>992623c3fdfc10107f44a3d85e3f685d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17232783c810000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 14:24:00</sys_updated_on>
+        <type>Module</type>
+        <update_guid>d12623c36efc1010ef9a92fc0de57d5d</update_guid>
+        <update_guid_history>d12623c36efc1010ef9a92fc0de57d5d:1265662774</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Loaner Tasks">932f3b8ffdfc10107f44a3d85e3f68cd</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-20 16:13:21</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>3150c112bb7441d0a75cb6435ad0e890</sys_id>
+        <sys_metadata>d92623c3fdfc10107f44a3d85e3f685a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Tasks</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">d8573e2d204523007f4471dbf508ccaf</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">d8573e2d204523007f4471dbf508ccaf</sys_scope>
+        <sys_scope_delete display_value="">a2f5b0dee60041028dbf1dfd9d6750d9</sys_scope_delete>
+        <sys_update_name>sys_app_module_d92623c3fdfc10107f44a3d85e3f685a</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d92623c3fdfc10107f44a3d85e3f685a">992623c3fdfc10107f44a3d85e3f685d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-20 16:13:21</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
